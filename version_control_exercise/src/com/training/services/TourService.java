@@ -10,4 +10,7 @@ public class TourService {
 		}
 		return status;
 	}
+	public int updateTour(Tour tour) {
+		return 1;
+	}
 }
